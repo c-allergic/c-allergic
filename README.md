@@ -1,11 +1,25 @@
-# Hello!
-## My name is **Sheldon Li**
+**👋 Hi, I'm Sheldon LI!**
 
-## I'm now an undergrad at HKUST(GZ)
+🎓 I'm an AI student at the Hong Kong University of Science and Technology (Guangzhou).
 
-## I'm now learning about version control and some knowledge about Project Development
+---
 
-# Looking forward to become a contributor to the neighbourhood
+### 🌟 About Me
 
-# Now I'm working on developing a package using julia language
+- 🎓 **Education**: Pursuing Bachelor's in Artificial Intelligence, HKUST(GZ)
+- 🤠 **Interests**: Not yet developed...
+- 🌍 **Location**: Guangzhou, China
+
+### 📈 Projects
+
+1. **ProblemReductions.jl**: About computational complexity and problem reductions, NP & P stuff
+2. Still engaging more...
+3. 
+---
+
+### 📬 Contact Me
+
+- **Email**: [xli683@connect.hkust-gz.edu.cn]
+
+
 
