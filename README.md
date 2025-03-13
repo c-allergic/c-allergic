@@ -6,5 +6,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/c-allergic/c-allergic/output/github-snake.svg">
 </picture>
 
-![c-allergic's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=c-allergic&theme=dracula&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER)
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=c-allergic&show_icons=true&include_all_commits=true&langs_count=8&layout=compact&theme=dracula&role=OWNER,ORGANIZATION_MEMBER)
+![c-allergic's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=c-allergic&theme=dracula&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER)![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=c-allergic&show_icons=true&include_all_commits=true&langs_count=8&layout=compact&theme=dracula&role=OWNER,ORGANIZATION_MEMBER)
